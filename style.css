@@ -7,7 +7,7 @@ body.signin-body {
 }
 
 .card.signin-card {
-    padding: 20px 25px;
+    padding: 5px 5px;
     border-radius: 0;
     background-color: #f4f8ff;
     box-shadow: 2px 2px 5px rgba( 0, 0, 0, .5);
@@ -25,4 +25,18 @@ img.logo-img {
 form.signin-form {
     max-width: 350px;
     margin: auto;
+}
+
+button.btn-signin {
+    color: #ffffff;
+    background-color: #ff4444;
+    width: 100%;
+    margin-bottom: 1.2rem;
+}
+
+a.new-account {
+    margin-top: 10px;
+    font-size: 1.2rem;
+    display: block;
+    text-align: center;
 }
