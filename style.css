@@ -19,7 +19,6 @@ img.logo-img {
     padding: 0 2rem 2rem;
     margin: auto;
     display: block;
-    width: 70%;
 }
 
 form.signin-form {
@@ -39,4 +38,9 @@ a.new-account {
     font-size: 1.2rem;
     display: block;
     text-align: center;
+}
+
+label.remember,
+lable.a.remember{
+    font-size: 0.85rem;
 }
